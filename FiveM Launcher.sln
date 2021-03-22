@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveM Launcher", "Fivem-Exile-Launcher\FiveM Launcher.csproj", "{4656E8C1-618A-4B81-AE4D-7AE847E12962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4656E8C1-618A-4B81-AE4D-7AE847E12962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4656E8C1-618A-4B81-AE4D-7AE847E12962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4656E8C1-618A-4B81-AE4D-7AE847E12962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4656E8C1-618A-4B81-AE4D-7AE847E12962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BDD1BB-F86E-447D-8C90-E7B09CC605E6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csprojAssemblyReference.cache
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.GenerateResource.cache
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.csproj.CoreCompileInputs.cache
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.exe.config
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.exe
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.pdb
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.exe
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.pdb
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM_Launcher.Main.resources
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.exe.manifest
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\bin\Debug\FiveM Launcher.application
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.exe.manifest
+D:\Projekty\launcher\FiveM Launcher\FiveM Launcher\obj\Debug\FiveM Launcher.application
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\bin\Debug\FiveM Launcher.exe.config
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\bin\Debug\FiveM Launcher.exe.manifest
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\bin\Debug\FiveM Launcher.application
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\bin\Debug\FiveM Launcher.exe
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\bin\Debug\FiveM Launcher.pdb
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.csprojAssemblyReference.cache
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM_Launcher.Main.resources
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM_Launcher.Properties.Resources.resources
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.csproj.GenerateResource.cache
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.csproj.CoreCompileInputs.cache
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.exe.manifest
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.application
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.exe
+D:\Projekty\launcher\FiveM Launcher\Fivem-Exile-Launcher\obj\Debug\FiveM Launcher.pdb
