@@ -8,3 +8,5 @@ Są to moje poczatki z językiem C# i był to mój pierwszy "projekt" napisany w
 
 
 **Nazwa serwera i logo jest użyte z serwera ExileRP dla przykładu <3**
+
+Preview: https://imgur.com/a/2Qmrm1H
