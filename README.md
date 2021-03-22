@@ -5,3 +5,6 @@
 [![Discord](https://discordapp.com/api/guilds/690686401469087756/embed.png)](https://discord.gg/wrSqK6k)
 
 Są to moje poczatki z językiem C# i był to mój pierwszy "projekt" napisany w tym języku, ten launcher został zrobiony przezemnie - Możecie zmieniać wszystko co chceice.
+
+
+**Nazwa serwera i logo jest użyte z serwera ExileRP dla przykładu <3**
